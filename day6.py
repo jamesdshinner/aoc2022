@@ -35,6 +35,5 @@ def main():
     marker_point_2 = getDistinctMarker(input_string=nums, num_distinct=14)
     print("Part 2: %i" % marker_point_2)
 
-
 if __name__ == '__main__':
     main()
